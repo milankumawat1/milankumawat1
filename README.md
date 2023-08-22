@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tweet_it_twist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tweet_it_twist" height="30" width="40" /></a>
+<a href="https://twitter.com/tweet_it_twist" target="blank"><img align="center" src="milankumawat1\Twitter.gif" alt="tweet_it_twist" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/milankumawat01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milankumawat01" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14668115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14668115" height="30" width="40" /></a>
 <a href="https://dribbble.com/milankumawat01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="milankumawat01" height="30" width="40" /></a>
