@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tweet_it_twist" target="blank"><img align="center" src="https://toppng.com/uploads/preview/black-twitter-x-logo-circle-transparent-png-11690224482yrgv8r7ini.webp" alt="tweet_it_twist" height="50" width="55" /></a>
+<a href="https://twitter.com/tweet_it_twist" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="tweet_it_twist" height="50" width="55" /></a>
 <a href="https://linkedin.com/in/milankumawat01" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="milankumawat01" height="50" width="55" /></a>
 <a href="https://stackoverflow.com/users/14668115" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/stackoverflow-512.png" alt="14668115" height="50" width="55" /></a>
-<a href="https://dribbble.com/milankumawat01" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/421_dribbble_icon.jpg" alt="milankumawat01" height="50" width="55" /></a>
+<a href="https://dribbble.com/milankumawat01" target="blank"><img align="center" src="https://www.svgrepo.com/show/57085/dribbble.svg" alt="milankumawat01" height="50" width="55" /></a>
 <a href="https://www.behance.net/milankumawat" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/behance-512.png" alt="milankumawat" height="50" width="55" /></a>
 <a href="https://www.leetcode.com/milankumawat01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="milankumawat01" height="50" width="55" /></a>
 </p>
