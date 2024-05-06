@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **NodeJs,MongoDB**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://milankumawat.vercel.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://milankumawat.vercel.app)
 
 - 💬 Ask me about **Flutter, React, C++, UI/UX, WordPress**
 
